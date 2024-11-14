@@ -41,7 +41,7 @@ $ npx replicache get-license
 #### Set your `VITE_REPLICACHE_LICENSE_KEY` environment variable
 
 ```bash
-$ export VITE_REPLICACHE_LICENSE_KEY="<your license key>"
+$ export VITE_REPLICACHE_LICENSE_KEY="l756b22f34eae440c95189d08c423e325"
 ```
 
 #### Install and Build
